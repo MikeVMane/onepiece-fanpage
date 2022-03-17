@@ -1,0 +1,17 @@
+body {
+    height: 1000vh;
+}
+
+.container {
+    width: 100%;
+    height: 1000px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../assets/images/onepiece-background1.jpg);
+    background-attachment: fixed;
+    
+    color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
